@@ -22,7 +22,7 @@ FlipSpace 프로젝트를 통해 사용자 경험 중심의 웹디자인을 설�
 
 
 # 주요기능
-
+<메인페이지> 
 ![header_madin](https://github.com/user-attachments/assets/1fca98a5-322d-4d52-8669-1fa224f3430a)
 
 ## header
@@ -48,5 +48,11 @@ FlipSpace 프로젝트를 통해 사용자 경험 중심의 웹디자인을 설�
 - 구독부분
 - flip의 사용자가 이용할 수 있는 구독 프로모션 소개
 
-##section7
-- 사용자 후기 소개 
+
+## section7
+- 사용자 후기 소개
+- 별점과 리뷰글을 활용해서 해당 플랫폼에 대한 이용자 만족도를 보여줌
+
+
+
+
